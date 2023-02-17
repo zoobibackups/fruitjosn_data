@@ -1,0 +1,96 @@
+[
+	{
+		"id": "1",
+		"name": "Apple",
+		"quantity": 100,
+		"price": "10",
+		"priceunit": "USD"
+	},
+    {
+		"id": "1",
+		"name": "Banana",
+		"quantity": 90,
+		"price": "8",
+		"priceunit": "USD"
+	},
+    {
+		"id": "1",
+		"name": "Mango",
+		"quantity": 120,
+		"price": "8",
+		"priceunit": "USD"
+	},
+    {
+		"id": "1",
+		"name": "Tomato",
+		"quantity": 121,
+		"price": "10",
+		"priceunit": "USD"
+	},
+    {
+		"id": "1",
+		"name": "Orange",
+		"quantity":210,
+		"price": "4",
+		"priceunit": "USD"
+	},
+    {
+		"id": "1",
+		"name": "Grapes",
+		"quantity":210,
+		"price": "10",
+		"priceunit": "USD"
+	},
+    {
+		"id": "1",
+		"name": "Pomegranate",
+		"quantity": 100,
+		"price": "7",
+		"priceunit": "USD"
+	},
+
+
+    {
+		"id": "1",
+		"name": "Kiwi",
+		"quantity": 100,
+		"price": "21",
+		"priceunit": "USD"
+	},{
+		"id": "1",
+		"name": "Strawberry",
+		"quantity":30,
+		"price": "2",
+		"priceunit": "USD"
+	},{
+		"id": "1",
+		"name": "Avocado",
+		"quantity": 100,
+		"price": "10",
+		"priceunit": "USD"
+	},{
+		"id": "1",
+		"name": "Peach",
+		"quantity": 100,
+		"price": "10",
+		"priceunit": "USD"
+	},{
+		"id": "1",
+		"name": "Coconut",
+		"quantity": 100,
+		"price": "10",
+		"priceunit": "USD"
+	},{
+		"id": "1",
+		"name": "Fruit",
+		"quantity": 100,
+		"price": "10",
+		"priceunit": "USD"
+	},{
+		"id": "1",
+		"name": "Dragonfruit",
+		"quantity": 100,
+		"price": "10",
+		"priceunit": "USD"
+	}
+]
